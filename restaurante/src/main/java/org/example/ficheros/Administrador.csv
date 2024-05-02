@@ -1,0 +1,4 @@
+id_usuarios,nombre,tipo,comensales,telefono,email,password,turno,cobro_comanda
+49,Ariel,Administrador,null,675234567,null,null,Mañana,null
+50,Elsa,Administrador,null,675345678,null,null,Tarde,null
+51,Simba,Administrador,null,675456789,null,null,Noche,null

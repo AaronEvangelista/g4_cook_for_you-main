@@ -1,0 +1,52 @@
+id_usuario,nombre,tipo,comensales,telefono,email,password
+1,Scar,Cliente,3,678901234,scar@disney.com,scar123
+2,Mulan,Cliente,2,671234567,mulan@disney.com,mulan123
+3,Pocahontas,Cliente,5,672345678,pocahontas@disney.com,pocahontas123
+4,Tiana,Cliente,1,673456789,tiana@disney.com,tiana123
+5,Remy,Cliente,4,674567890,remy@disney.com,remy123
+6,Kuzco,Cliente,3,675678901,kuzco@disney.com,kuzco123
+7,Lumière,Cliente,2,670123456,lumiere@disney.com,lumiere123
+8,Flounder,Cliente,1,670234567,flounder@disney.com,flounder123
+9,Jiminy Cricket,Cliente,5,670345678,jiminy@disney.com,jiminy123
+10,Genie,Cliente,4,670456789,genie@disney.com,genie123
+11,Timon,Cliente,3,670567890,timon@disney.com,timon123
+12,Rapunzel,Cliente,2,670678901,rapunzel@disney.com,rapunzel123
+13,Scrooge McDuck,Cliente,1,670789012,scrooge@disney.com,scrooge123
+14,Eric,Cliente,5,670890123,eric@disney.com,eric123
+15,Esmeralda,Cliente,4,671901234,esmeralda@disney.com,esmeralda123
+16,Woody,Cliente,3,671012345,woody@disney.com,woody123
+17,Megara,Cliente,2,671123456,megara@disney.com,megara123
+18,Bambi,Cliente,1,671234567,bambi@disney.com,bambi123
+19,Merida,Cliente,5,671345678,merida@disney.com,merida123
+20,Bolt,Cliente,4,671456789,bolt@disney.com,bolt123
+21,Dumbo,Cliente,3,671567890,dumbo@disney.com,dumbo123
+22,Flynn Rider,Cliente,2,671678901,flynn@disney.com,flynn123
+23,Tarzan,Cliente,1,671789012,tarzan@disney.com,tarzan123
+24,Moana,Cliente,5,672901234,moana@disney.com,moana123
+25,Olaf,Cliente,4,672012345,olaf@disney.com,olaf123
+26,Alice,Cliente,3,672123456,alice@disney.com,alice123
+27,Tiana,Cliente,2,672234567,tiana@disney.com,tiana123
+28,Anna,Cliente,1,672345678,anna@disney.com,anna123
+29,Peter Pan,Cliente,5,672456789,peterpan@disney.com,peterpan123
+30,Mowgli,Cliente,4,672567890,mowgli@disney.com,mowgli123
+31,Tinker Bell,Cocinero,0,676789012,null,null
+32,Peter Pan,Cocinero,0,677890123,null,null
+33,Cinderella,Cocinero,0,678901234,null,null
+34,Alice,Cocinero,0,679012345,null,null
+35,Aladdin,Cocinero,0,679123456,null,null
+36,Jasmine,Cocinero,0,679234567,null,null
+37,Donald Duck,Camarero,0,673456789,null,null
+38,Daisy Duck,Camarero,0,673567890,null,null
+39,Pluto,Camarero,0,673678901,null,null
+40,Winnie the Pooh,Camarero,0,673789012,null,null
+41,Piglet,Camarero,0,673890123,null,null
+42,Tigger,Camarero,0,674901234,null,null
+43,Eeyore,Camarero,0,674012345,null,null
+44,Mad Hatter,Camarero,0,674123456,null,null
+45,Piglet,Camarero,0,674567890,null,null
+46,Tigger,Camarero,0,674789012,null,null
+47,Eeyore,Camarero,0,675012345,null,null
+48,Mad Hatter,Camarero,0,675123456,null,null
+49,Ariel,Administrador,0,675234567,null,null
+50,Elsa,Administrador,0,675345678,null,null
+51,Simba,Administrador,0,675456789,null,null

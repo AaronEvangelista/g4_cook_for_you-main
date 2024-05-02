@@ -1,0 +1,31 @@
+id,nombre,stock
+1,Lechuga,10
+2,Tomate,15
+3,Cebolla,8
+4,Pimiento_verde,6
+5,Zanahoria,12
+6,Patata,20
+7,Manzana,18
+8,Plátano,14
+9,Naranja,16
+10,Uva,25
+11,Huevo,30
+12,Leche,10
+13,Harina,15
+14,Azúcar,8
+15,Sal,6
+16,Pimienta,12
+17,Aceite de oliva,20
+18,Carne picada,18
+19,Pollo,14
+20,Pescado,16
+21,Arroz,25
+22,Pasta,30
+23,Pan,10
+24,Queso,15
+25,Yogurt,8
+26,Café,6
+27,Té,12
+28,Chocolate,20
+29,Helado,18
+30,Galletas,14

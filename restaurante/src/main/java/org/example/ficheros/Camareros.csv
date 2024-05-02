@@ -1,0 +1,13 @@
+id_Usuario,nombre,tipo,comensales,telefono,email,password,turno
+37,Donald Duck,Camarero,null,673456789,null,null,Mañana
+38,Daisy Duck,Camarero,null,673567890,null,null,Mañana
+39,Pluto,Camarero,null,673678901,null,null,Mañana
+40,Winnie the Pooh,Camarero,null,673789012,null,null,Mañana
+41,Piglet,Camarero,null,673890123,null,null,Tarde
+42,Tigger,Camarero,null,674901234,null,null,Tarde
+43,Eeyore,Camarero,null,674012345,null,null,Tarde
+44,Mad Hatter,Camarero,null,674123456,null,null,Tarde
+45,Piglet,Camarero,null,674567890,null,null,Noche
+46,Tigger,Camarero,null,674789012,null,null,Noche
+47,Eeyore,Camarero,null,675012345,null,null,Noche
+48,Mad Hatter,Camarero,null,675123456,null,null,Noche

@@ -1,0 +1,7 @@
+id_usuario,nombre,tipo,comensales,telefono,email,password,turno,especialidad
+31,Tinker Bell,Cocinero,null,676789012,null,null,Mañana,Cocina Japones
+32,Peter Pan,Cocinero,null,677890123,null,null,Mañana,Cocina Libanesa
+33,Cinderella,Cocinero,null,678901234,null,null,Tarde,Cocina Mediterranea
+34,Alice,Cocinero,null,679012345,null,null,Tarde,Cocina Turca
+35,Aladdin,Cocinero,null,679123456,null,null,Noche,Cocina Latina
+36,Jasmine,Cocinero,null,679234567,null,null,Noche,Pucheros

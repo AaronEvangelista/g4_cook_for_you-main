@@ -1,0 +1,31 @@
+id_usuario,nombre,tipo,comensales,telefono,email,contraseña,alergia
+1,Scar,Cliente,3,678901234,scar@disney.com,scar123,nada
+2,Mulan,Cliente,2,671234567,mulan@disney.com,mulan123,nada
+3,Pocahontas,Cliente,5,672345678,pocahontas@disney.com,pocahontas123,Pescado
+4,Tiana,Cliente,1,673456789,tiana@disney.com,tiana123,nada
+5,Remy,Cliente,4,674567890,remy@disney.com,remy123,Achiote
+6,Kuzco,Cliente,3,675678901,kuzco@disney.com,kuzco123,nada
+7,Lumière,Cliente,2,670123456,lumiere@disney.com,lumiere123,Alcohol
+8,Flounder,Cliente,1,670234567,flounder@disney.com,flounder123,nada
+9,Jiminy Cricket,Cliente,5,670345678,jiminy@disney.com,jiminy123,Hinojo
+10,Genie,Cliente,4,670456789,genie@disney.com,genie123,Coco
+11,Timon,Cliente,3,670567890,timon@disney.com,timon123,nada
+12,Rapunzel,Cliente,2,670678901,rapunzel@disney.com,rapunzel123,Nuez moscada
+13,Scrooge McDuck,Cliente,1,670789012,scrooge@disney.com,scrooge123,nada
+14,Eric,Cliente,5,670890123,eric@disney.com,eric123,nada
+15,Esmeralda,Cliente,4,671901234,esmeralda@disney.com,esmeralda123,nada
+16,Woody,Cliente,3,671012345,woody@disney.com,woody123,nada
+17,Megara,Cliente,2,671123456,megara@disney.com,megara123,Verduras
+18,Bambi,Cliente,1,671234567,bambi@disney.com,bambi123,nada
+19,Merida,Cliente,5,671345678,merida@disney.com,merida123,Semillas
+20,Bolt,Cliente,4,671456789,bolt@disney.com,bolt123,nada
+21,Dumbo,Cliente,3,671567890,dumbo@disney.com,dumbo123,nada
+22,Flynn Rider,Cliente,2,671678901,flynn@disney.com,flynn123,Maní
+23,Tarzan,Cliente,1,671789012,tarzan@disney.com,tarzan123,nada
+24,Moana,Cliente,5,672901234,moana@disney.com,moana123,nada
+25,Olaf,Cliente,4,672012345,olaf@disney.com,olaf123,nada
+26,Alice,Cliente,3,672123456,alice@disney.com,alice123,Especias
+27,Tiana,Cliente,2,672234567,tiana@disney.com,tiana123,nada
+28,Anna,Cliente,1,672345678,anna@disney.com,anna123,nada
+29,Peter Pan,Cliente,5,672456789,peterpan@disney.com,peterpan123,nada
+30,Mowgli,Cliente,4,672567890,mowgli@disney.com,mowgli123,nada
